@@ -11,5 +11,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love fixing bugs!!
 - [![Alex M GitHub stats](https://github-readme-stats.vercel.app/api?username=Mathenge-alex&show_icons=true&count_private=true)](https://github.com/Mathenge-Alex/github-readme-stats)
-- `vue-dark` ![vue-dark][vue-dark] | `shades-of-purple` ![shades-of-purple][shades-of-purple] | `nightowl` ![nightowl][nightowl]
+- `vue-dark` ![vue-dark][vue-dark] | `shades-of-purple` ![shades-of-purple][shades-of-purple] | `nightowl` ![nightowl][nightowl] |
 -->
