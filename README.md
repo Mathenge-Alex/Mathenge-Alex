@@ -10,6 +10,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/alex-m-maina/), [Twitter](https://twitter.com/MainaAlexM)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love fixing bugs!!
-- [![Alex M GitHub stats](https://github-readme-stats.vercel.app/api?username=Mathenge-alex&show_icons=true&count_private=true)](https://github.com/Mathenge-Alex/github-readme-stats)
+- [![Alex M GitHub stats](https://github-readme-stats.vercel.app/api?username=Mathenge-alex&show_icons=true)](https://github.com/Mathenge-Alex/github-readme-stats)
 - `vue-dark` ![vue-dark][vue-dark] | `shades-of-purple` ![shades-of-purple][shades-of-purple] | `nightowl` ![nightowl][nightowl] |
+- ![Alex M's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mathenge-Alex&show_icons=true&count_private=true)
 -->
