@@ -17,6 +17,6 @@ If you would ask me, I'd tell you that I love what I do and I'm ready to do it e
  
  ⚡ Fun fact: Bugs are Unwanted Features!
  
-  [![Alex M GitHub stats](https://github-readme-stats.vercel.app/api?username=Mathenge-alex&theme=vue-dark&show_icons=true&count_private=true)](https://github.com/Mathenge-Alex/github-readme-stats)   [![Top Languages By Alex](https://github-readme-stats.vercel.app/api/top-langs/?username=Mathenge-Alex&layout=compact)](https://github.com/Mathenge-Alex/github-readme-stats)
+  
  
   
