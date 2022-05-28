@@ -4,7 +4,7 @@ I'm Alex Maina, a Full-Stack Software Developer. Programming is my carer and hob
 If you would ask me, I'd tell you that I love what I do and I'm ready to do it even better today.
                         Cheers!
 
- 🔭 I’m currently working on Flask Applications, learning Full-stack software Development
+ 🔭 I’m currently working on Django Applications.
  
  👯 I’m looking to collaborate on Programming Projects and Get Started as a Professional Software Developer.
  
