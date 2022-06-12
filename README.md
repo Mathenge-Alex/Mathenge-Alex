@@ -20,3 +20,20 @@ If you would ask me, I'd tell you that I love what I do and I'm ready to do it e
   
  [![Alex M GitHub stats](https://github-readme-stats.vercel.app/api?username=Mathenge-alex&theme=vue-dark&show_icons=true&count_private=true)](https://github.com/Mathenge-Alex/github-readme-stats)   [![Top Languages By Alex](https://github-readme-stats.vercel.app/api/top-langs/?username=Mathenge-Alex&layout=compact)](https://github.com/Mathenge-Alex/github-readme-stats)
   
+#### Languages
+
+
+  <a href="https://github.com/omololevy/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=omololevy&theme=highcontrast" />
+</a>
+
+#### Consistency:
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=omololevy&theme=highcontrast&layout=compa")](https://git.io/streak-stats)
+
+### Achievements:
+
+<div align="center">  
+<img align="center" src="https://github-profile-trophy.vercel.app/?username=omololevy&margin-w=15&margin-h=15" />
+
+</div>
