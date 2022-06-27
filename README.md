@@ -9,24 +9,14 @@
 ```If you would ask me, I'd tell you that I love what I do and I'm ready to do it even better today.``` <b>Cheers!</b>
 
 <div  style="display: flex;">
-  <h3>Currently:</h3>
-  <p align="center" color="rgb(74, 61, 216);"><h5>Working on Django Applications.</h5></p> 
-</div>
+  <h3>Currently:</h3> <span> <h5>Working on Django Applications.</h5></span>
+ 
 
-## ```Social```  
+## ```Social:```  <a href="https://www.linkedin.com/in/alex-m-maina/"><img src="https://img.shields.io/badge/linkedin-430098?style=for-the-badge&logo=linkedin&logoColor=white" alt="CodePen" /></a>&nbsp; <a href="https://twitter.com/MainaAlexM"><img src="https://img.shields.io/badge/Twitter-d41838?style=for-the-badge&logo=twitter&logoColor=white" alt="CodePen" /></a>&nbsp;
 
-<div style="text-align: center">
-  <a href="https://www.linkedin.com/in/alex-m-maina/"><img src="https://img.shields.io/badge/linkedin-430098?style=for-the-badge&logo=linkedin&logoColor=white" alt="CodePen" /></a>&nbsp;
-<a href="https://twitter.com/MainaAlexM"><img src="https://img.shields.io/badge/Twitter-d41838?style=for-the-badge&logo=twitter&logoColor=white" alt="CodePen" /></a>&nbsp; <br>
-</div>
-<br>
 
-## ```Contact Me``` 
+## ```Contact Me:``` <a style="text-align:center;" href="mailto:arxmaina@gmail.com"><img src="https://img.shields.io/badge/gmail-d64528?style=for-the-badge&logo=gmail&logoColor=white" alt="CodePen" /></a>&nbsp;
 
-<div style="text-align: center">
-<a style="text-align:center;" href="mailto:arxmaina@gmail.com"><img src="https://img.shields.io/badge/gmail-d64528?style=for-the-badge&logo=gmail&logoColor=white" alt="CodePen" /></a>&nbsp; <br>
-</div>
-<br><br>
   
  [![Alex M GitHub stats](https://github-readme-stats.vercel.app/api?username=Mathenge-alex&theme=dark&show_icons=true&count_private=true)](https://github.com/Mathenge-Alex/github-readme-stats)   
   
