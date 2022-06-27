@@ -1,22 +1,16 @@
 <h2 > Alex Mathenge </h2>
-<br>
 
 <h2 align="center"> Full-Stack Software Developer </h2>
-<br>
 <h3 style="text-align:center;">Programming is my carer and hobby</h3>
 <hr>
 
      I am excited when I make mental conceptions work in real life by coding them into useful systems and features.
 
 ```If you would ask me, I'd tell you that I love what I do and I'm ready to do it even better today.``` <b>Cheers!</b>
-<br>
-<br>
-
 
 <div  style="display: flex;">
   <h3>Currently:</h3>
   <p align="center" color="rgb(74, 61, 216);"><h5>Working on Django Applications.</h5></p> 
- <br>
 </div>
 
 ## ```Social```  
