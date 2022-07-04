@@ -30,7 +30,7 @@
 
 #### ```Coding Consistency:```
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Mathenge-Alex&theme=highcontrast&layout=compact")](https://git.io/strea-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Mathenge-Alex&theme=highcontrast&layout=compact")](htps://git.io/streak-stats)
 
 
 ### ```Achievements:```
