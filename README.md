@@ -18,7 +18,7 @@
 ## ```Contact Me:``` <a style="text-align:center;" href="mailto:arxmaina@gmail.com"><img src="https://img.shields.io/badge/gmail-d64528?style=for-the-badge&logo=gmail&logoColor=white" alt="CodePen" /></a>&nbsp;
 
   
- [![Alex M GitHub stats](https://github-readme-stats.vercel.app/api?username=Mathenge-alex&theme=dark&show_icons=true&count_private=true)](https://github.com/Mathenge-Alex/github-readme-stats)   
+ [![Alex M GitHub stats](https://github-readme-stats.vercel.app/api?username=Mathenge-Alex&theme=dark&show_icons=true&count_private=true)](https://github.com/Mathenge-Alex/github-readme-stats)   
   
 #### ```Top Languages```
 
@@ -30,7 +30,7 @@
 
 #### ```Coding Consistency:```
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=name=Mathenge-Alex&theme=highcontrast&layout=compact")](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?username=Mathenge-Alex&theme=highcontrast&layout=compact")](https://git.io/streak-stats)
 
 
 ### ```Achievements:```
