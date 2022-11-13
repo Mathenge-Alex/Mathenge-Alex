@@ -1,7 +1,7 @@
 <h2 > Alex Mathenge: &nbsp; &nbsp; &nbsp; <span text-align="center"> Full-Stack Software Developer </span> </h2> 
 
 
-<h3 style="text-align:center;">Programming is my carer and hobby</h3>
+<h3 style="text-align:center;">Programming is my Carer and hobby</h3>
 <hr>
 
      I am excited when I make mental conceptions work in real life by coding them into useful systems and features.
