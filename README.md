@@ -24,7 +24,11 @@
 
 
   <a href="https://github.com/Mathenge-Alex/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mathenge-Alex&theme=dark" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mathenge-Alex&theme=dark private=true" />
+</a>
+
+ <a href="https://github.com/omololevy/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=omololevy&theme=highcontrast" />
 </a>
 
 
