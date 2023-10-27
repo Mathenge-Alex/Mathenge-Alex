@@ -27,11 +27,6 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mathenge-Alex&theme=dark private=true" />
 </a>
 
- <a href="https://github.com/omololevy/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=omololevy&theme=highcontrast" />
-</a>
-
-
 #### ```Coding Consistency:```
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Mathenge-Alex&theme=highcontrast&layout=compact")](https://git.io/streak-stats)
