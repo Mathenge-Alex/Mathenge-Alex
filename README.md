@@ -20,7 +20,7 @@
   
  [![Alex M GitHub stats](https://github-readme-stats.vercel.app/api?username=Mathenge-Alex&theme=dark&show_icons=true&count_private=true)](https://github.com/Mathenge-Alex/github-readme-stats)   
   
-#### ```Top Languages```
+#### ```My Top Languages```
 
 
   <a href="https://github.com/Mathenge-Alex/github-readme-stats">
@@ -31,7 +31,7 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Mathenge-Alex&theme=highcontrast&layout=compact")](https://git.io/streak-stats)
 
-### ```Achievements:```
+### ```My Achievements:```
 
 <span align="center">  
 <img align="center" src="https://github-profile-trophy.vercel.app/?username=Mathenge-Alex&margin-w=20&margin-h=15" />
