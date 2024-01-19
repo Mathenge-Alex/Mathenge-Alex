@@ -25,12 +25,19 @@
 
   <a href="https://github.com/Mathenge-Alex/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mathenge-Alex&theme=dark" />
+       
+### ```Top Langs```
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MainaAlexM&theme=dark" />
 </a>
 
 #### ```Coding Consistency:```
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Mathenge-Alex&theme=highcontrast&layout=compact")](https://git.io/streak-stats)
+
+#### ```Coding Consistency 2:```
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MainaAlexM&theme=highcontrast&layout=compact")](https://git.io/streak-stats)
+
 
 ### ```My Achievements:```
 
