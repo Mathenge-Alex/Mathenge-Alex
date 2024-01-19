@@ -25,6 +25,7 @@
 
   <a href="https://github.com/Mathenge-Alex/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mathenge-Alex&theme=dark" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MainaAlexM&theme=dark" />
 </a>
 
 #### ```Coding Consistency:```
