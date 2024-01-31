@@ -15,7 +15,7 @@
 ## ```Social:```  <a href="https://www.linkedin.com/in/alex-m-maina/"><img src="https://img.shields.io/badge/linkedin-430098?style=for-the-badge&logo=linkedin&logoColor=white" alt="CodePen" /></a>&nbsp; <a href="https://twitter.com/MainaAlexM"><img src="https://img.shields.io/badge/Twitter-d41838?style=for-the-badge&logo=twitter&logoColor=white" alt="CodePen" /></a>&nbsp;
 
 
-## ```Contact Me:``` <a style="text-align:center;" href="mailto:arxmaina@gmail.com"><img src="https://img.shields.io/badge/gmail-d64528?style=for-the-badge&logo=gmail&logoColor=white" alt="CodePen" /></a>&nbsp;
+## ```Contact Me:``` <a style="text-align:center;" target='_blank href="mailto:arxmaina@gmail.com"><img src="https://img.shields.io/badge/gmail-d64528?style=for-the-badge&logo=gmail&logoColor=white" alt="CodePen" /></a>&nbsp;
 
   
  [![Alex M GitHub stats](https://github-readme-stats.vercel.app/api?username=Mathenge-Alex&theme=dark&show_icons=true&count_private=true)](https://github.com/Mathenge-Alex/github-readme-stats)   
