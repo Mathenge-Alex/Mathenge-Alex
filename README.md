@@ -35,6 +35,6 @@
 ### ```My Achievements:```
 
 <span align="center">  
-<img align="center" src="https://github-profile-trophy.vercel.app/?username=Mathenge-Alex&margin-w=20&margin-h=15" />
+<img align="center" src="https://github-profile-trophy.vercel.app/?username=Mathenge-Alex&margin-w=20&margin-h=15&count_private=true" />
 
 </span>
