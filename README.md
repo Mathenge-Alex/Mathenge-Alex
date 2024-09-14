@@ -6,7 +6,7 @@
 
      I am excited when I make mental conceptions work in real life by coding them into useful systems and solutions.
 
-```I love what I do and I'm working to grow better each day.``` <b>Cheers!</b>
+```I love what I do and I'm working to grow better each day.```
 
 <div  style="display: flex;">
   <h3>Currently:</h3> <span> <h5>Working on Django Applications.</h5></span>
