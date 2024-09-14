@@ -1,12 +1,12 @@
 <h2 > Alex Mathenge: &nbsp; &nbsp; &nbsp; <span text-align="center"> Full-Stack Software Developer </span> </h2> 
 
 
-<h3 style="text-align:center;">Programming is an art of solving problems!</h3>
+<h3 style="text-align:center;">Programming is an art of solving problems! I believe a programmer is as good as their ability to solve real-life problems</h3>
 <hr>
 
-     I am excited when I make mental conceptions work in real life by coding them into useful systems and features.
+     I am excited when I make mental conceptions work in real life by coding them into useful systems and solutions.
 
-```I love what I do and I'm working to grow better today.``` <b>Cheers!</b>
+```I love what I do and I'm working to grow better each day.``` <b>Cheers!</b>
 
 <div  style="display: flex;">
   <h3>Currently:</h3> <span> <h5>Working on Django Applications.</h5></span>
