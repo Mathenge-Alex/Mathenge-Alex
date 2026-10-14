@@ -1,40 +1,57 @@
-<h2 > Alex Mathenge: &nbsp; &nbsp; &nbsp; <span text-align="center"> Full-Stack Software Developer </span> </h2> 
+# Alex Maina
 
+**Software engineer · Nairobi, Kenya**
 
-<h3 style="text-align:center;">Programming is an art of solving problems! I believe a programmer is as good as their ability to solve real-life problems</h3>
-<hr>
+I design, build and run production software for Kenyan businesses: workshops, lenders, audit firms and
+schools. I take a system from the first conversation with the client to the day it runs their operations, and
+I stay with it after: hosting, security, backups, monitoring and support. You can find my work at
+[ilexdigital.com](https://ilexdigital.com).
 
-     I am excited when I make mental conceptions work in real life by coding them into useful systems and solutions.
+## What I build
 
-```I love what I do and I'm working to grow better each day. Bring your projects, let us grow together```
+| System | What it does |
+|---|---|
+| **Fundibase** | Workshop, store and fleet management for garages and truck-body builders. It covers job cards with live progress, an append-only stock ledger across sites, tool tracking, materials planning and purchasing. Labour costing, invoicing, M-Pesa reconciliation, fleet contracts and client SMS/WhatsApp are optional modules. Several garages share each server, each fully isolated, and one command-line tool runs them all |
+| **Auditrix** | Practice management for audit and accounting firms: a job board, a review pipeline, a hash-chained audit trail, multi-tenant data isolation and verified incremental backups |
+| **Farm credit platform** | Loan management for a licensed lender: interest accrual, repayments, role-based access, a full audit trail, health monitoring with alerts, and nightly off-site backups. Built to Kenyan compliance requirements |
+| **Octobook** | Booking, scheduling and follow-up for professionals. Multi-tenant SaaS with a schema per subscriber |
+| **BIOS** | School attendance from ZKTeco biometric devices, with SMS to parents |
+| **ilex-deploy** | Internal platform: one-command test deployments of any project to a shared server (Docker, Caddy), with guard rails that keep production systems out of reach |
 
-<div  style="display: flex;">
-  <h3>Currently:</h3> <span> <h5>Working on Django Applications.</h5></span>
- 
+The code for client systems and products is private. I'm happy to give a walkthrough or a live demo.
 
-## ```Social:```  <a href="https://www.linkedin.com/in/alex-m-maina/"><img src="https://img.shields.io/badge/linkedin-430098?style=for-the-badge&logo=linkedin&logoColor=white" alt="CodePen" /></a>&nbsp; <a href="https://twitter.com/MainaAlexM"><img src="https://img.shields.io/badge/Twitter-d41838?style=for-the-badge&logo=twitter&logoColor=white" alt="CodePen" /></a>&nbsp;
+## How I work
 
+- **Production first.** Everything I ship has:
+  - automated tests on SQLite and PostgreSQL;
+  - deployment checks;
+  - two-factor sign-in;
+  - an audit log that cannot be edited;
+  - verified nightly backups with an off-site copy;
+  - health monitoring.
+- **Measured, not guessed.** I load-test against a year of simulated data before advising on hosting, and I
+  keep the numbers.
+- **Kenya-first.** M-Pesa (Daraja: STK push, C2B, statement reconciliation), SMS and WhatsApp
+  notifications, KRA details on documents, and the Data Protection Act 2019.
+- **Owned end to end.** Every system comes with clear documentation, an operator runbook, and contracts and
+  SLAs that say what the client can rely on.
 
-## ```Contact Me:``` <a style="text-align:center;" href="mailto:arxmaina@gmail.com" target="_blank"><img src="https://img.shields.io/badge/gmail-d64528?style=for-the-badge&logo=gmail&logoColor=white" alt="CodePen" /></a>&nbsp;
+## Stack
 
-  
- [![Alex M GitHub stats](https://github-readme-stats.vercel.app/api?username=Mathenge-Alex&theme=dark&show_icons=true&count_private=true)](https://github.com/Mathenge-Alex/github-readme-stats)   
-  
-#### ```My Top Languages```
+**Backend:** Python, Django, Django REST Framework, PostgreSQL, Celery/Redis when it earns its place.
+**Frontend:** HTMX, Tailwind CSS, JavaScript/TypeScript, React where a rich client is needed.
+**Infrastructure:** Linux (Ubuntu), nginx, gunicorn, systemd, Docker, Caddy, Let's Encrypt, fail2ban, Bash.
+**Integrations:**
+- M-Pesa Daraja;
+- Africa's Talking (SMS);
+- WhatsApp Business;
+- ZKTeco biometric devices;
+- SMTP;
+- PDF and Excel generation.
 
+## Contact
 
-  <a href="https://github.com/Mathenge-Alex/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mathenge-Alex&theme=dark" />
-       
+[ilexdigital.com](https://ilexdigital.com) · [LinkedIn](https://www.linkedin.com/in/alex-m-maina/) ·
+[X / Twitter](https://x.com/MainaAlexM) · [arxmaina@gmail.com](mailto:arxmaina@gmail.com)
 
-#### ```Coding Consistency:```
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Mathenge-Alex&theme=highcontrast&layout=compact")](https://git.io/streak-stats)
-
-
-### ```My Achievements:```
-
-<span align="center">  
-<img align="center" src="https://github-profile-trophy.vercel.app/?username=Mathenge-Alex&margin-w=20&margin-h=15&count_private=true" />
-
-</span>
+Open to building systems for businesses that need software they can depend on.
