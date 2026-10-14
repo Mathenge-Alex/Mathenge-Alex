@@ -1,57 +1,63 @@
-# Alex Maina
+<div align="center">
 
-**Software engineer · Nairobi, Kenya**
+# Hi, I'm Alex 👋
 
-I design, build and run production software for Kenyan businesses: workshops, lenders, audit firms and
-schools. I take a system from the first conversation with the client to the day it runs their operations, and
-I stay with it after: hosting, security, backups, monitoring and support. You can find my work at
-[ilexdigital.com](https://ilexdigital.com).
+<a href="https://ilexdigital.com">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3200&pause=900&color=2F81F7&center=true&vCenter=true&width=600&lines=Software+engineer+%C2%B7+Nairobi%2C+Kenya;I+build+software+businesses+run+on;Web+apps+%C2%B7+Business+systems+%C2%B7+M-Pesa;From+the+first+idea+to+years+in+production" alt="Software engineer · Nairobi, Kenya" />
+</a>
 
-## What I build
+<p>
+  <a href="https://ilexdigital.com"><img src="https://img.shields.io/badge/ilexdigital.com-1F6FEB?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" /></a>
+  <a href="https://www.linkedin.com/in/alex-m-maina/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://x.com/MainaAlexM"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
+  <a href="mailto:arxmaina@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+</p>
 
-| System | What it does |
+</div>
+
+I build software that businesses depend on every day, and I stay with it after launch. My work runs from
+the first conversation about the problem to the day the system runs the business. After that I keep it
+fast, secure and backed up.
+
+## 🛠️ What I build
+
+| | |
 |---|---|
-| **Fundibase** | Workshop, store and fleet management for garages and truck-body builders. It covers job cards with live progress, an append-only stock ledger across sites, tool tracking, materials planning and purchasing. Labour costing, invoicing, M-Pesa reconciliation, fleet contracts and client SMS/WhatsApp are optional modules. Several garages share each server, each fully isolated, and one command-line tool runs them all |
-| **Auditrix** | Practice management for audit and accounting firms: a job board, a review pipeline, a hash-chained audit trail, multi-tenant data isolation and verified incremental backups |
-| **Farm credit platform** | Loan management for a licensed lender: interest accrual, repayments, role-based access, a full audit trail, health monitoring with alerts, and nightly off-site backups. Built to Kenyan compliance requirements |
-| **Octobook** | Booking, scheduling and follow-up for professionals. Multi-tenant SaaS with a schema per subscriber |
-| **BIOS** | School attendance from ZKTeco biometric devices, with SMS to parents |
-| **ilex-deploy** | Internal platform: one-command test deployments of any project to a shared server (Docker, Caddy), with guard rails that keep production systems out of reach |
+| 🌐 **Websites and web apps** | Fast, mobile-first sites and applications that bring customers and get work done |
+| 🏢 **Business management systems** | Operations, stores and inventory, jobs and workflows, purchasing, reporting |
+| 💳 **Payments and fintech** | M-Pesa (STK push, paybill, payouts) with automatic reconciliation; lending and finance tools |
+| 🛒 **E-commerce** | Online stores built for how people actually buy: on a phone, paying by M-Pesa |
+| ☁️ **SaaS platforms** | Multi-tenant products with isolated client data, subscriptions and one-command operations |
+| 🔌 **Integrations** | APIs, SMS and WhatsApp messaging, biometric devices, imports and exports |
 
-The code for client systems and products is private. I'm happy to give a walkthrough or a live demo.
+## ✨ How I work
 
-## How I work
+- 📱 **Phone first.** Most users are on a phone and a mobile network, so every screen is built for that first.
+- 🔐 **Secure by default.** HTTPS, two-factor sign-in, role-based access, and audit trails nobody can edit.
+- 🧪 **Tested before it ships.** Automated tests, real-world load checks, and a deployment that checks itself.
+- 💾 **Never lose data.** Verified nightly backups, an off-site copy, and restores I actually rehearse.
+- 🤝 **Owned end to end.** Clear documentation, a runbook, and support with a named person behind it.
 
-- **Production first.** Everything I ship has:
-  - automated tests on SQLite and PostgreSQL;
-  - deployment checks;
-  - two-factor sign-in;
-  - an audit log that cannot be edited;
-  - verified nightly backups with an off-site copy;
-  - health monitoring.
-- **Measured, not guessed.** I load-test against a year of simulated data before advising on hosting, and I
-  keep the numbers.
-- **Kenya-first.** M-Pesa (Daraja: STK push, C2B, statement reconciliation), SMS and WhatsApp
-  notifications, KRA details on documents, and the Data Protection Act 2019.
-- **Owned end to end.** Every system comes with clear documentation, an operator runbook, and contracts and
-  SLAs that say what the client can rely on.
+## 🧰 Toolbox
 
-## Stack
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,django,postgres,redis,js,ts,react,tailwind,html,css&perline=10" alt="Languages and frameworks" /><br/>
+  <img src="https://skillicons.dev/icons?i=linux,ubuntu,nginx,docker,bash,git,github,githubactions&perline=10" alt="Infrastructure and tools" />
+</p>
 
-**Backend:** Python, Django, Django REST Framework, PostgreSQL, Celery/Redis when it earns its place.
-**Frontend:** HTMX, Tailwind CSS, JavaScript/TypeScript, React where a rich client is needed.
-**Infrastructure:** Linux (Ubuntu), nginx, gunicorn, systemd, Docker, Caddy, Let's Encrypt, fail2ban, Bash.
-**Integrations:**
-- M-Pesa Daraja;
-- Africa's Talking (SMS);
-- WhatsApp Business;
-- ZKTeco biometric devices;
-- SMTP;
-- PDF and Excel generation.
+<p align="center">
+  <img src="https://img.shields.io/badge/HTMX-3366CC?style=flat-square&logo=htmx&logoColor=white" alt="HTMX" />
+  <img src="https://img.shields.io/badge/M--Pesa_Daraja-4BB543?style=flat-square" alt="M-Pesa Daraja" />
+  <img src="https://img.shields.io/badge/Africa's_Talking-F37021?style=flat-square" alt="Africa's Talking" />
+  <img src="https://img.shields.io/badge/WhatsApp_Business-25D366?style=flat-square&logo=whatsapp&logoColor=white" alt="WhatsApp Business" />
+  <img src="https://img.shields.io/badge/Caddy-1F88C0?style=flat-square&logo=caddy&logoColor=white" alt="Caddy" />
+  <img src="https://img.shields.io/badge/Let's_Encrypt-003A70?style=flat-square&logo=letsencrypt&logoColor=white" alt="Let's Encrypt" />
+</p>
 
-## Contact
+## 📫 Let's build something
 
-[ilexdigital.com](https://ilexdigital.com) · [LinkedIn](https://www.linkedin.com/in/alex-m-maina/) ·
-[X / Twitter](https://x.com/MainaAlexM) · [arxmaina@gmail.com](mailto:arxmaina@gmail.com)
+Have a process that runs on spreadsheets, paper and WhatsApp groups? Let's turn it into software your team
+enjoys using. Reach me at **[ilexdigital.com](https://ilexdigital.com)** or
+**[arxmaina@gmail.com](mailto:arxmaina@gmail.com)**.
 
-Open to building systems for businesses that need software they can depend on.
+<div align="center"><sub>Most of my work is private client and product code. Walkthroughs and demos are available on request.</sub></div>
